@@ -1,0 +1,13 @@
+name: yWarps
+author: Yonatan
+version: 1.0
+main: me.yonatan.yWarps.yWarps
+
+commands:
+  pwarp:
+   description: Public warps.
+  warp:
+   aliases: [go]
+   description: Private warps.
+  warphelp:
+    description: Help.
